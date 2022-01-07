@@ -1,0 +1,365 @@
+,school_name,address,airport,phone_number,email,school_url
+0,Auburn University,"700 Airport Road, Auburn, Alabama, 36830 United States",Auburn University Regional Airport,(334) 844-1942,brockparker@auburn.edu,http://ocm.auburn.edu/aviation_center/
+1,Apollo Aviation ,"900 Mitchell Field Road, Bessemer, Alabama, 35022 United States",Bessemer Municipal Airport,205-494-0040,info@apolloaviation.com,https://www.apolloaviation.com
+2,Birmingham Flight Center,"4243 E Lake Blvd, Birmingham, Alabama, 35217 United States",Birmingham International Airport,(205) 849-7722,info@bhmflightcenter.com,http://bhmflightcenter.com/
+3,Over The Mountain Aviation,"265 Weathervane Road, Calera, Alabama, 35040 United States",Shelby County Airport,(205) 670-6359,bfranks@otmaviation.com,http://www.otmaviation.com/
+4,Blackstone Aviation,"450 Airport Rd, Hartselle, Alabama, 35640 United States",Hartselle Morgan County Airport,(256) 773-1130,blackstoneaviation@blackstoneaviation.com,http://www.blackstoneaviation.com/
+5,Redstone Arsenal Flying Activity,"Redstone Army Airfield, Huntsville, Alabama, 35808 United States",Redstone Army Airfield,(256) 876-6774,na@na.com,http://www.flyingactivity.com/
+6,Brown Aero Technologies,"4445 51st Avenue SW, Lanett, Alabama, 36863 United States",Lanett Municipal Airport,(334) 787-9610,brownaero@gmail.com,http://www.brownaero.com/
+7,Executive Flight Center,"358 Bolling Road, Meridianville, Alabama, 35759 United States",Madison County Executive Airport,(256) 828-1403,info@executiveflightcenter.com,http://www.executiveflightcenter.com/
+8,Flight Training of Mobile,"371 Flave Pierce Rd, Mobile, Alabama, 36608 United States",Mobile Downtown Airport,(251) 441-0723,info@flyftm.com,http://www.flyftm.com/
+9,General Aviation Center,"7232 Robert Cardinal Airport Road, Tuscaloosa, Alabama, 35401 United States",Tuscaloosa Regional Airport,(205) 345-5900,info@generalaviationcenter.com,http://www.generalaviationcenter.com
+10,Arctic Flyers,"2641 Melvin Ave, Anchorage, Alaska, 99502 United States",Lake Hood Seaplane Base,(907) 243-3953,rruess@gci.net,http://www.arcticflyers.biz/
+11,Land and Sea Aviation,"3101 Penland Parkway, Anchorage, Alaska, 99508 United States",Merrill Field Airport,(907) 274-2544,landandseaalaska@gmail.com,http://www.landandseaaviationalaska.com/
+12,University of Alaska Anchorage,"2811 Merrill Field Drive, Anchorage, Alaska, 99508 United States",,(907) 264-7400,ayflyhi@uaa.alaska.edu,http://www.uaa.alaska.edu/aviation
+13,Kirst Aviation,"Fairbanks Airport, Fairbanks, Alaska, 99707 United States",Fairbanks International Airport,(907) 687-5011,na@na.com,http://kirstaviation.com/
+14,ProFlite of Alaska,"3788 University Ave South, Fairbanks, Alaska, 99709 United States",Fairbanks International Airport,(907) 474-0099,proflite@alaska.net,http://www.proflitealaska.com/
+15,Alaska Float Ratings,"33702 Depot Rd, Moose Pass, Alaska, 99631 United States",Upper Trail Lake,(907) 288-3646,alaskafloatratings@gmail.com,http://www.alaskafloatratings.com/
+16,Fly Around Alaska,"821 S Airport Rd, Palmer, Alaska, 99645 United States",Palmer Regional Airport,907 746 2290,info@flyaroundalaska.com,https://www.flyaroundalaska.com/
+17,Alaska Floats and Skis,"15339 East Botner Road, Talkeetna, Alaska, 99676 United States",,(907) 733-4500,don@alaskafloats.com,http://www.alaskafloats.com/
+18,Chandler Air Service,"1675 E Ryan Rd, Chandler, Arizona, 85286 United States",Chandler Municipal Airport,(888) 503-8884,fly@aerobatics.com,http://www.aerobatics.com/
+19,Wings270,"1575 E Ryan Rd, Chandler, Arizona, 85286 United States",Chandler Municipal Airport,(480) 963-2221,Jason@wings270.com,http://www.wings270.com/
+20,Aerosim Aviation,"6635 North Glen Harbor Blvd, Glendale, Arizona, 85307 United States",Glendale Municipal Airport,(623) 341-4311,tls.aerosim@gmail.com,http://www.aerosimaviation.com/
+21,Arizona Flight Training Center,"6801 Glen Harbor Blvd, Glendale, Arizona, 85307 United States",Glendale Municipal Airport,(623) 877-9334,info@arizonaflighttrainingcenter.com,http://www.arizonaflighttrainingcenter.com/
+22,Fly At Goodyear,1658 S,Glendale Municipal Airport,(623) 877-9334,info@arizonaflighttrainingcenter.com,http://www.arizonaflighttrainingcenter.com/
+23,Marana Flight School,"11700 W Avra Valley Rd, Marana, Arizona, 85653 United States",Marana Northwest Regional Airport,(520) 468-5752,info@maranaflightschool.com,http://www.maranaflightschool.com/
+24,Arizona Flight Training and Instruction,"1340 South Sandal Street, Mesa, Arizona, 85206 United States",Falcon Field Airport,(480) 284-0062,ebookhelp@arizona-flight-training-and-instruction.com,http://arizona-flight-training-and-instruction.com/
+25,Falcon Executive Aviation,"4766 E Falcon Dr, Mesa, Arizona, 85215 United States",Falcon Field Airport,(800) 237-2359,Flying.FFZ.2187@gmail.com,http://www.falconaviation.com/
+26,Airplane Rental Ventures,4863 E,Falcon Field Airport,(800) 237-2359,Flying.FFZ.2187@gmail.com,http://www.falconaviation.com/
+27,Arizona State University,7442 E,Falcon Field Airport,(800) 237-2359,Flying.FFZ.2187@gmail.com,http://www.falconaviation.com/
+28,Superior Aviation Arkansas,"3275 Sand Gap Road, Conway, Arkansas, 72034 United States",Conway Municipal Airport,(501) 291-1557,Brad.Kaczmarek@SuperiorAviationAR.com,http://superioraviationar.com
+29,Central Flying Service,"1501 Bond Street, Little Rock, Arkansas, 72202 United States",Adams Field Airport,(501) 375-3245,calvin.freeney@central.aero,http://www.central.aero/
+30,Wallis Aviation,"245 Barnett Road, Lonoke, Arkansas, 72085 United States",Saline County Regional,(479) 243-6191,mwallis@wallisaviation.net,http://www.wallisaviation.net/
+31,Ozarka College,"218 College Drive, Melbourne, Arkansas, 72556 United States",Melbourne Municipal Airport,(870) 368-7926,nick.lenczycki@ozarka.edu,http://fly.ozarka.edu/
+32,CFI Academy,"3700 E Jahant Rd, Suite A, Acampo, California, 95220 United States",Lodi Airport,9162090234,admin@cfiacademy.com,https://cfiacademy.com
+33,Sierra Academy of Aeronautics,"2305 Jetlift Drive, Atwater, California, 95301 United States",Castle Airport,(209) 722-7522,na@na.co,http://www.sierraacademy.com/
+34,Mach 5 Aviation,"2409 Rickenbacker Way, Auburn, California, 95602 United States",Auburn Municipal Airport,(530) 889-2000,mach5aviation@gmail.com,http://www.mach5aviation.com/
+35,Sunshine Flyers,"2410 Rickenbacker Way, Auburn, California, 95602 United States",Auburn Airport,(530) 820-3442,sunshineflyersaviation@gmail.com,http://www.sunshineflyers.com/
+36,Camarillo Flight Instruction,"205 Durley Avenue, Camarillo, California, 93010 United States",Camarillo Airport,(805) 233-7601,info@CamarilloFlightInstruction.com,http://www.camarilloflightinstruction.com/
+37,Max Aero,"3374 Mira Loma Drive, Cameron Park, California, 95682 United States",Cameron Airpark,(530) 350-5052,fly@max.aero,http://www.max.aero/
+38,Pinnacle Aviation Academy,"2210 Palomar Airport Road, Carlsbad, California, 92011 United States",McClellan Palmar Airport,(760) 929-1009,info@pinnacleacademy.com,http://www.pinnacleacademy.com/
+39,Pacific Coast Flyers,"2210 Palomar Airport Road, Carlsbad, California, 92011 United States",Palomar Airport,(877) 723-5937,info@pcflyers.org,http://www.pcflyers.org/
+40,DuBois Aviation,"7601 Merrill Avenue, Chino, California, 91710 United States",Chino Airport,(909) 597-6292,info@duboisaviation.com,http://www.duboisaviation.com/
+41,Alliance International Aviation,"7000 Merrill Avenue, Chino, California, 91710 United States",Chino Airport,(909) 606-0747,office@aiaflight.com,http://www.aiaflight.com/
+42,Flight Methods Aviation,"2415 Mullins Avenue, Alamosa, Colorado, 81101 United States",Bergman Field,(719) 587-9593,flightmethods@gmail.com,http://www.flightmethodsaviation.com/
+43,Journeys Aviation,"3335 Airport Road, Boulder, Colorado, 80301 United States",Boulder Municipal Airport,(303) 449-4210,info@journeysaviation.com,http://www.journeysaviation.com/
+44,Specialty Flight Training,"3324 Airport Road, Boulder, Colorado, 80301 United States",Boulder Municipal Airport,(303) 530-0550,,http://www.specialtyflight.com/
+45,McAir Aviation,"11945 Airport Way, Broomfield, Colorado, 80021 United States",Rocky Mountain Metropolitan Airport,(303) 466-8730,support@mcairaviation.com,http://www.mcairaviation.com/
+46,Rocky Mountain Flight School,"11855 Airport Way, Broomfield, Colorado, 80021 United States",Rocky Mountain Metropolitan Airport,(303) 465-4600,info@rmflight.com,http://www.rmflight.com/
+47,NorthEast Planes Aviation,"30180 US Hwy 34, Brush, Colorado, 80723 United States",Ft Morgan Municipal Airport,(970) 867-3592,,http://www.northeast-planes.com
+48,A Cent Aviation,"1945 Aviation Way, Colorado Springs, Colorado, 80916 United States",Colorado Springs Municipal Airport,(719) 573-2236,,http://www.a-centaviation.com/
+49,Peak Aviation Center,"1587 aviation way, Colorado Springs, Colorado, 80916 United States",Colorado Springs Municipal Airport,(719) 573-4452,gc@cospilot.com,http://www.cospilot.com/
+50,Flights,"7355 S Peoria St, Englewood, Colorado, 80112 United States",Centennial Airport,(303) 799-5140,info@flights-inc.com,http://www.flights-inc.com/
+51,Aspen Flying Club,"13000 East Control Tower Road, K16, Englewood, Colorado, 80112 United States",Centennial Airport,(303) 799-6794,ggarvis@hrvp.com,http://www.aspenflyingclub.com/
+52,Arrow Aviation,"53 Miry Brook Road, Danbury, Connecticut, 06810 United States",Danbury Municipal Airport,(203)7445010,info@arrowaviationllc.com,http://www.arrowaviationllc.com/
+53,Premier Flight Center,"58 Lindbergh Drive, Hartford, Connecticut, 06114 United States",Brainard Airport,(860) 724-2245,info@premierflightct.com,https://www.premierflightct.com/
+54,Meriden Aviation Center,"213 Evansville Ave 2nd flr, Meriden, Connecticut, 06451 United States",Meriden Markham Airport,203-648-4870,mark@meridenaviationcenter.com,https://meridenaviationcenter.com
+55,Interstate Aviation,"62 Johnson Avenue, Plainville, Connecticut, 06062 United States",Robertson Airport,(860) 747-5519,flyiailynn@aol.com,http://www.interstateaviation.com/
+56,Sport Flying of Connecticut,"173 Mt Tobe Rd, Plymouth, Connecticut, 06782 United States",Danbury Airport,203-895-1204,SportFlyingCT@gmail.com,http://www.sportflyingct.com/
+57,Avia Flight Academy,"325 Main St Ste 3, Stratford, Connecticut, 06615 United States",Bridgeport Sikorsky Airport,203-212-3799,info@aviaflightacademy.com,http://www.aviaflightacademy.com/
+58,Phill Air,"4157 Seven Hickories Road, Dover, Delaware, 19904 United States",Delaware Air Park,(302) 678-9823,phillairinc@aol.com,http://www.phill-air.com/
+59,Delaware State University,"1200 N DuPont Highway, Dover, Delaware, 19901 United States",,(302) 857-6710,mcox@desu.edu,http://www.desu.edu/aviation
+60,Apopka Aviation and Flight Services,"1321 Apopka Airport Road, Apopka, Florida, 32712 United States",Orlando Apopka Airport,(407) 947-1700,,http://www.apopkaflightservices.com/
+61,Central Florida Aviation,"1321 Apopka Airport Rd, Apopka, Florida, 32712 United States",Winter Haven Airport,(937) 725-3491,,http://www.centralfloridaaviation.net/
+62,First Landings,"1321 Apopka Airport Rd FBO, Apopka, Florida, 32712 United States",Orlando Apopka Airport,(407) 866-7612,info@firstlandings.com,http://www.iflysport.com/
+63,Beach Aviation,"3700 Airport Road, Boca Raton, Florida, 33431 United States",Boca Raton Airport,(561) 395-1230,BeachAviationFL40@gmail.com,http://www.beachaviationfl.com/
+64,American Aviation Flight Academy,"17076 Helicopter Drive, Brooksville, Florida, 34604 United States",Brooksville-Tampa Bay Regional Airport,352-797-2833,andrea@americanaviation.us,https://flyaafa.com/
+65,Clearwater Aviation,"14695 Airport Parkway, Clearwater, Florida, 33762 United States",St Petersburg Clearwater Airport,(727) 538-0318,travis.fox@clearwateraviation.com,http://www.clearwateraviation.com/
+66,T Black Aviation,"15875 Fairchild Dr Suite 207, Clearwater, Florida, 33762 United States",St Petersburg Airport,(727) 669-5756,info@tblackaviation.com,http://www.tblackaviation.com/
+67,Tampa Bay Aviation,"1000 N Hercules Ave, Clearwater, Florida, 33765 United States",Clearwater Airpark,(727) 461-5229,office@tampabayaviation.com,http://www.tampabayaviation.com/
+68,Cams Flight,"14421 Airport Parkway, Clearwater, Florida, 33762 United States",,(727) 507-8881,info@camsflight.com,http://camsflight.com/
+69,Florida Sky Aviation,"14609 Airport Pkwy. Suite 103, Clearwater, Florida, 33762 United States",St. Pete-Clearwater International Airport,(727) 463-7708,fly@flskyaviation.com,http://www.flskyaviation.com
+70,Advanced Aviation,"1954 Airport Road Suite 225, Atlanta, Georgia, 30341 United States",Dekalb Peachtree Airport,(770)6829007,,http://www.advancedaviation.com/
+71,All2Fly Aviation Academy,"1954 Airport rd. Ste# 205, Peachtree DeKalb Airport, Atlanta, Georgia, 30341 United States",Dekalb Peachtree,(678) 200 -2500,info@all2flyaviation.com,http://www.all2flyaviation.com
+72,Skybound Aviation,"2000 Airport Road, Atlanta, Georgia, 30341 United States",Dekalb Peachtree Airport,(678) 691-3283,skybndco@skybnd.com,http://skybnd.com/
+73,American Air Flight Training,"2000 Airport Road, Atlanta, Georgia, 30341 United States",Dekalb-Peachtree Airport,(770) 455-4203,steve@fly-aaft.com,http://www.fly-aaft.com/
+74,AV8,"2000 Airport Road, Atlanta, Georgia, 30341 United States",Dekalb-Peachtree Airport,(770) 377-2169,michael@av8inc.com,http://www.av8inc.com/
+75,AG Flight,"116 1st Ramp, Bainbridge, Georgia, 39818 United States",Decatur County Airport,(229) 246-8200,PilotTraining@agflight.com,http://www.agflight.com/
+76,Superior Flight School Canton,"1730 Airport Drive, Ball Ground, Georgia, 30107 United States",,(770) 704-9931,,http://www.superiorflight.com/
+77,Phoenix Air,"100 Phoenix Air Drive SW, Cartersville, Georgia, 30120 United States",Cartersville Bartow County Airport,(770) 387-2000,flightschool@phoenixair.com,http://www.phoenixair.com/
+78,Lanier Flight Center,"2060 Airport Road, Chamblee, Georgia, 30341 United States",Dekalb Peachtree Airport,(678) 989-2395,sales@lanierflightcenter.com,http://www.lanierflightcenter.com/
+79,FlyBoys Flight Centers,"1035 South Hill Street, Griffin, Georgia, 30224 United States",,(770) 228-7759,terry@flyboys.biz,http://www.flyboys.biz/
+80,Georges Aviation Services,"18 Lagoon Drive, Honolulu, Hawaii, 96819 United States",Honolulu International Airport,(866) 834-2120,school@georgesaviation.com,http://www.georgesaviation.com/
+81,The Right Flight School,"10 Lagoon Dr, Honolulu, Hawaii, 96819 United States",Honolulu International Airport,(808) 387-3316,trfs808@gmail.com,http://www.trfshawaii.com/
+82,Barbers Point Flight School,"91-1259 Midway Road Hangar 110, Kapolei, Hawaii, 96707 United States",John Rodgers Field,(808) 518-4664,kperry@bpaviation.com,http://www.bpaviation.com/flight-school/
+83,Tropicbird Flight Service,"PO Box 1415, Kona, Hawaii, 96745 United States",Kona International Airport,(808) 895-4753,mike@tropicbirdflightservice.com,http://www.tropicbirdflightservice.com/
+84,Glass Cockpit Aviation,"3653 Rickenbacker St, Boise, Idaho, 83705 United States",Boise Air Terminal Gowen Field,(208) 869-6459,info@glasscockpitaviation.com,http://www.glasscockpitaviation.com/
+85,Jetstream Aviation,"3653 Rickenbacker St, Boise, Idaho, 83705 United States",Boise Air Terminal Gowen Field,(208) 345-3730,fly@jetstreamaviation.com,http://www.jetstreamaviation.com/
+86,Ponderosa Aero Club,"4888 W Aeronca, Boise, Idaho, 83705 United States",Boise Air Terminal Gowen Field,(208) 344-5401,info@ponderosaaero.org,http://ponderosaaero.org/
+87,Northern Air,"64602 Highway 2, Boners Ferry, Idaho, 83805 United States",Boundary County Airport,(208) 267-4359,office.northernair@gmail.com,http://northernair.biz/
+88,Air O Drome Aviation,"517 Dauntless Pl, Caldwell, Idaho, 83605 United States",Caldwell Industrial Airport,(208)4590718,airidaho@yahoo.com,http://www.airidaho.com/
+89,Silverhawk Aviation Academy,"4505 Aviation Way, Caldwell, Idaho, 83605 United States",Caldwell Industrial Airport - KEUL,208-453-8577,fly@silverhawkaviation.net,http://www.silverhawkaviation.net
+90,Coeur dAlene Flight,"6848 N Government Way #114-61, Coeur dAlene, Idaho, 83815 United States",Coeur D Alene Airport,(208) 758-0213,mark@coeurdaleneflight.com,http://www.coeurdaleneflight.com/
+91,Teton Aviation Center,"253 Warbird Lane, Driggs, Idaho, 83422 United States",Driggs Reed Memorial Airport,(208) 354-3100,info@tetonaviation.com,http://tetonaviation.com/
+92,McCall Air,"300 Deinhard lane, McCall, Idaho, 83638 United States",McCall Municipal Airport,(208) 634-7137,reservations@mccallaviation.com,http://www.mccallaviation.com/
+93,T Craft Aero Club,"135 Municipal Dr, Nampa, Idaho, 83687 United States",Nampa Municipal Airport,(208) 863-4835,flynjim@yahoo.com,http://www.t-craft.org/
+94,Synergy Flight Center,"2823 East Empire Street, Bloomington, Illinois, 61704 United States",Central Illinois Regional Airport,(309) 828-4448,info@synergyfbo.com,http://synergyfbo.com/
+95,A and M Aviation,"130 S Clow International Pkwy Suite B, Bolingbrook, Illinois, 60490 United States",Clow International Airport,(630) 759-1555,na@na.com,http://www.aandmaviation.com/
+96,Airgo,"2331 East Calumet Street, Centralia, Illinois, 62801 United States",Centralia Municipal Airport,(618) 533-1643,info@flyairgo.com,http://www.flyairgo.com/
+97,Aero Aviation Academy,"5236 W 63 Street, Chicago, Illinois, 60638 United States",Chicago Midway International Airport,(773) 800-2759,aeroaviationacademyinc@gmail.com,http://www.aeroaviationacademy.com
+98,Aviation Professionals,"6321 S Central Ave, Chicago, Illinois, 60638 United States",Chicago Midway International Airport,(773) 284-5678,api@apischool.com,http://www.apischool.com/
+99,Bresson Flying Service,"2760 US Hwy 30, Compton, Illinois, 61318 United States",Bresson Airport,(815) 628-7431,bressonflying@gmail.com,http://www.bressonflying.com/default.htm
+100,Advanced Aviation Training,1826 W,Bresson Airport,(815) 628-7431,bressonflying@gmail.com,http://www.bressonflying.com/default.htm
+101,Jet Air Inc,"58 Illinois Route 164, Galesburg, Illinois, 61401 United States",Galesburg Municipal Airport,(309) 342-3134,info@jetairinc.com,http://www.jetairinc.com/
+102,J F Aviation,"4000 W Jefferson St, Joliet, Illinois, 60431 United States",Joliet Regional Airport,(815) 744-7528,na@na.com,http://www.jfaviationinc.com/
+103,Elite Flight Training and Aircraft Management LLC,"Greater Kankakee Airport, 809 E 4000S Rd, Kankakee, Illinois, 60901 United States",Greater Kankakee Airport,8159393575,info@eliteaviationpro.com,http://www.eliteaviationpro.com
+104,BMG Jet Center,"984 South Kirby Road, Bloomington, Indiana, 47403 United States",Monroe County Airport,(812) 825-7979,fbo@bmgjet.us,http://www.bmgaviation.com/
+105,Rhoades Air Center,"4770 ray boll blv, Columbus, Indiana, 47203 United States",Columbus Municipal Airport,(812) 372-1819,bellison@rhoadesaircenter.com,http://www.jlrventures.net/
+106,Hendricks County Aviation,"2749 Gordon Graham Blvd, Danville, Indiana, 46122 United States",Hendericks County Airport,(317) 745-4422,info@flyhca.com,http://www.flyhca.com/
+107,Tom Wood Aviation,"9913 Willowview Rd, Fishers, Indiana, 46038 United States",Indianapolis Metropolitan Airport,(888) 587-9146,na@na.com,http://www.tomwoodaviation.com/
+108,Sweet Aviation,"902 West Ludwig Road, Fort Wayne, Indiana, 46825 United States",Smith Field Airport,(260) 267-5505,info@sweetaviation.com,http://www.sweetaviation.com/
+109,Indy Flight Training,"3867 North Aviation Way, Greenfield, Indiana, 46140 United States",Indianapolis Regional Airport,(317) 336-3610,na@na.com,http://indyflighttraining.com/
+110,Jeff Air Pilot Services ,"799 E County Line Rd, Greenwood, Indiana, 46143 United States",Greenwood Airport,(317) 610-1081,tom@jeffairpilotservices.com,http://www.jeffairfbo.com/
+111,Vincennes University Aviation Technology Center,"1002 N First Street, Vincennes, Indiana, 47591 United States",,(800) 742-9198,vuadmit@vinu.edu,http://catalog.vinu.edu/content.php?catoid=23&navoid=1925
+112,Flight Training Center,"3637 East , Kokomo, Indiana, 46901 United States",Kokomo Municipal Airport,(765) 319-3295,info@flighttrainingcenters.com,http://flighttrainingcenters.com/
+113,Air Marion,"5904 SOUTH WESTERN AVE, Marion, Indiana, 46953 United States",Marion Municipal Airport,(765) 674-7777,fly@airmarion.com,http://www.airmarion.com/
+114,Haps Air Service,"2508 Airport Dr, Ames, Iowa, 50010 United States",Ames Municipal Airport,(515) 232-4310,info@hapsair.com,http://www.hapsair.com/
+115,Exec 1 Aviation,"3700 SE Convenience Blvd, Ankeny, Iowa, 50021 United States",Ankeny Regional Airport,(515) 985-1020,info@exec1aviation.com,http://exec1aviation.com/
+116,Iowa Flight Training,"3435 Beech Way SW, Cedar Rapids, Iowa, 52404 United States",Southeast Iowa Regional Airport,,info@iowaflighttraining.com,http://www.iowaflighttraining.com/
+117,Advanced Air,"16801 MCCANDLESS LANE, Council Bluffs, Iowa, 51503 United States",Council Bluffs Municipal Airport,(712)3232173,advancedaircb@yahoo.com,http://www.advancedaircb.com/
+118,Carver Aero Inc,"9230 Harrison Street, Davenport, Iowa, 52806 United States",Davenport Municipal Airport,(563)3915650,na@na.com,http://www.carveraero.com/
+119,FLY KDSM,"5600 Fleur Dr STE B, Des Moines, Iowa, 50321 United States",Des Moines International Airport,515-650-5558,office@flykdsm.com,https://flykdsm.com
+120,University of Dubuque,"2000 University Avenue, Dubuque, Iowa, 52001 United States",Dubuque Regional Airport,(563) 589-3000,webeditor@dbq.edu,http://www.dbq.edu/Academics/OfficeofAcademicAffairs/AcademicDepartments/Aviation/
+121,Estherville Aviation,"1672 425th Ave, Estherville, Iowa, 51334 United States",Esterville Municipal Airport,(712) 362-2761,paul@esthervilleaviation.com,http://www.esthervilleaviation.com/
+122,Iowa Lakes Community College,"300 South 18th Street, Estherville, Iowa, 51334 United States",,(712) 362-2604,na@na.com,https://www.iowalakes.edu/academic-programs/programs-of-study/technology/aviation-airport-management/
+123,Lindner Aviation,"2504 340 th St, Keokuk, Iowa, 52632 United States",Keokuk Municipal Airport,(319) 524-6203,info@lindneraviation.com,http://www.lindneraviation.com/
+124,Prairie Air Service,"3481 SW Shady Lane, Benton, Kansas, 67017 United States",Lloyd Stearaman Field Airport,(316) 778-1712,mail@prairieairservice.com,http://www.prairieairservice.com/
+125,Crotts Aircraft Service,"102 Airport Road, Dodge City, Kansas, 67801 United States",Dodge City Regional Airport,(620)2273553,na@na.com,http://www.crottsaircraft.com/
+126,Butterfly Aviation,"602 Renner Field Rd, Goodland, Kansas, 67735 United States",Goodland Municipal Airport,(785)8907531,na@na.com,http://www.butterflyaviation.net/
+127,Centerline Aviation,"9047 6th St, Great Bend, Kansas, 67530 United States",Great Bend Municipal Airport,(620)7962130,na@na.com,http://www.fuelwith.us/
+128,Hetrick Air Services,"1930 Airport Road, Lawrence, Kansas, 66044 United States",Lawrence Municipal Airport,(785) 842-0000,lloyd@hetrickairservices.com,http://hetrickairservices.com
+129,Kc Flight,"5 Aero Plz, New Century, Kansas, 66031 United States",New Century Airport,(913) 240-1694,info@kcflight.com,http://www.kcflight.com/
+130,Air Associates of Kansas,"12901 W 151st Street, Olathe, Kansas, 66062 United States",Johnson County Executive Airport,(913)7644800,info@airassociatesinc.com,http://www.airassociatesinc.com/
+131,Kansas State University,"2310 Centennial Road, Salina, Kansas, 67401 United States",,(785) 826-2640,polytechnic@k-state.edu,https://polytechnic.k-state.edu/academics/degree-options/pilot/
+132,Wings of Refuge Flight School and Ministry,"420 Airport Road, Danville, Kentucky, 40422 United States",Stuart Powell Field,(859) 401-2861,wingsofrefugeflight@gmail.com,http://wingsofrefugeflight.com/
+133,Don Davis Aviation,"2154 Hwy 136 West, Henderson, Kentucky, 42420 United States",Henderson City County Airport,(270) 826-6000,customerservice@dondavisaviation.com,http://www.dondavisaviation.com/
+134,Lexington Flying Club,"4000 Terminal Drive, Lexington, Kentucky, 40510 United States",Blue Grass Airport,(859) 623-0005,info@lexingtonflyingclub.org,http://www.lexingtonflyingclub.org/
+135,Nexgen Aviation,"4144 Aviator Road, Lexington, Kentucky, 40510 United States",Blue Grass Airport,(859) 281-1177,info@flynexgenaviation.com,http://www.flynexgenaviation.com/
+136,Cardinal Wings Aviation,"2700 Gast Blvd, Louisville, Kentucky, 40205 United States",Bowman Field,(502) 292-4820,bcames@cardinalwingsaviation.com,http://www.cardinalwingsaviation.com/
+137,Louisville Aviation,"9223 Springbrooke Circle, Louisville, Kentucky, 40205 United States",Bowman Field Airport,(502) 905-8747,mpratt@ipapilot.org,http://www.louisvilleaviation.com/
+138,Kentucky Airmotive,"709 Airport Road, Mt Sterling, Kentucky, 40353 United States",Mount Sterling Montgomery Airport,(859) 498-1000,dannyhill63@bellsouth.net,http://www.kentuckyairmotive.com/
+139,Midwest Aviation,"200 Hardy Roberts Drive, West Paducha, Kentucky, 42086 United States",Barkley Regional Airport,(270) 744-8600,jbristow@midwestaviation.net,http://www.midwest-aviation.com/default.htm
+140,Air Reldan,"25048 Louisiana 36, Abita Springs, Louisiana, 70420 United States",St Tammany Regional Airport,(985)8930096,info@airreldan.com,http://www.airreldan.com/
+141,Aviation Specialists,"6253 Airport Industrial Blvd, Gonzales, Louisiana, 70737 United States",Louisiana Regional Airport,(225)6474568,na@na.com,http://www.aviationspecialistsinc.com/
+142,Fly by Knight,"800 Judge Leon Ford Drive, Hammond, Louisiana, 70401 United States",Hammond Northshore Regional Airport,(985) 340-8800,info@flybyknight.biz,http://www.flybyknight.biz/
+143,University of Louisiana at Monroe,"700 University Avenue, Monroe, Louisiana, 71209 United States",,(318) 342-1786,recruit@ulm.edu,http://www.ulm.edu
+144,Owens Flight School,"1404 Hangar Drive, New Iberia, Louisiana, 70560 United States",Acadiana Regional Airport,(337) 446-4318,na@na.com,http://www.owensflighttraining.com/
+145,Acadiana Flight Center,"4711 Ed Lasalle Road, New Iberia, Louisiana, 70560 United States",Acadiana Regional Airport,(337) 365-5300,rviator@acadianaflight.com,http://www.acadianaflight.com
+146,Aviation Academy of Louisiana,"4516 Coteau Road Building B, New Iberia, Louisiana, 70560 United States",KARA,3375915680,info@flylouisiana.com,https://www.flylouisiana.com
+147,Gulf Coast Aviation,"6001 Stars and Stripes Blvd, New Orleans, Louisiana, 70126 United States",New Orleans Lakefront Airport,(504) 246-2700,info@gulfcoastaviation.com,http://gulfcoastaviation.com
+148,Tubreaux Aviation,"1550 Airport Dr, Shreveport, Louisiana, 71107 United States",Shreveport Downtown Airport,(318) 510-4330,info@tubreauxaviation.com,http://tubreauxaviation.com
+149,Maine Instrument Flight,"215 Winthrop Street, Augusta, Maine, 04330 United States",Augusta State Airport,(207) 622-1211,mail@mif.aero,http://www.maineinstrumentflight.com/
+150,Central Maine Aviation,"176 Harrison Avenue, Pittsfield, Maine, 04967 United States",Pittsfield Municipal Airport,(207) 249-8972,charlie@centralmaineaviation.com,http://www.centralmaineaviation.com/
+151,Southern Maine Aviation,"199 Airport Road, Sanford, Maine, 04073 United States",Sanford Regional Airport,(207) 324-8919,fly@flyingsma.com,http://www.flyingsma.com/
+152,Maine Coastal Flight Center,"112 Caruso Drive, Trenton, Maine, 04605 United States",Hancock County Bar Harbor Airport,(207) 664-6000,info@mainecoastalflight.com,http://www.mainecoastalflight.com/
+153,Airlink,"2 Lafleur Road, Waterville, Maine, 04901 United States",Robert LaFleur Airport,(207) 859-0109,info@airlinkconnection.com,http://airlinkconnection.com
+154,Ocean Aviation,"12724 Airport Road, Berlin, Maryland, 21811 United States",Ocean City Municipal Airport,(410) 213-8400,oceanaviation@verizon.net,http://flyoceanaviation.com/
+155,Freeway Aviation,"3900 Church Rd, Bowie, Maryland, 20721 United States",Freeway Airport,(301) 390-6424,flying@freewayaviation.com,http://www.freewayaviation.com/
+156,Harford Air Services,"3538 Aldino Rd, Churchville, Maryland, 21028 United States",Harford County Airport,(410) 836-2828,harfordair@msn.com,http://www.harfordair.com/
+157,Royal Air Flight Training,"6501 Hazel Thicket Drive, Columbia, Maryland, 21040 United States",Baltimore Washington International Airport,(410) 531-8454,nizarbechara@hotmail.com,http://royal-air.webs.com/
+158,Easton Aviation,"29137 Newnam Rd, Easton, Maryland, 21601 United States",Easton Municipal Airport,(410) 822-8181,info@eastonaviation.com,http://eastonaviation.com/
+159,Trident Aircraft,"9220 Joe Marsh Lane, Easton , Maryland, 21601 United States",Easton Maryland Airport,410 604 1333,info@tridentaircraft.com,https://www.tridentflighttraining.com/
+160,Navy Annapolis Flight Center,"3090 Solomon Island Road, Edgewater, Maryland, 21037 United States",Lee Airfield,(410) 956-8751,nafc_hq@nafcflying.org,http://www.nafcflying.org/
+161,DC Aerobatics,"10300 Glen Way, Fort Washington, Maryland, 20744 United States",Potomac Airfield,(703) 623-9445,n_a_spin@yahoo.com,http://www.dcaerobatics.com/
+162,Supreme Aviation,"10300 Glen Way, Fort Washington, Maryland, 75001 United States",Potomac Airfield,(214) 696-4437,info@supremeaviation.com,http://www.supremeaviation.com/
+163,Frederick Flight Center,"330 Aviation Way, Frederick, Maryland, 21701 United States",Frederick Municipal Airport,(240) 529-5500,na@na.co,http://frederickflightcenter.com/
+164,East Coast Aero Club,"200 Hanscom Drive, Bedford, Massachusetts, 01730 United States",Bedford Hanscom Field Airport,(781) 274-6322,ecacbed@eastcoastaeroclub.com,http://eastcoastaeroclub.com/
+165,Executive Flyers Aviation,"200 Hanscom Drive, Bedford, Massachusetts, 01730 United States",Bedford Hanscom Field Airport,(781) 274-7227,efamail@executiveflyers.com,http://executiveflyers.com/
+166,Boston Flight Simulator Academy,"47 L.P. Henderson Road, Beverly, Massachusetts, 01915 United States",Beverly Airport,(617) 319-1316,info@bostonflightsimulator.com,http://www.bostonflightsimulator.com/
+167,Bridgewater State University,"95 Grove Street, Bridgewater, Massachusetts, 02325 United States",,(508) 531-1779,,http://www.bridgew.edu/academics/colleges-departments/department-aviation-science
+168,Beverly Flight Center,"175 Old Burley St, Danvers, Massachusetts, 01923 United States",Beverly Municipal Airport,(978)7747755,,http://www.beverlyflightcenter.com/
+169,FCA Flight Center,"567 Crawford Street, Fitchburg, Massachusetts, 01603 United States",Fitchburg Municipal Airport,(978) 345-0373,info@fcaflightcenter.com,http://www.fcaflightcenter.com/
+170,King Aviation,"265 Fruit Street, Mansfield, Massachusetts, 02048 United States",Mansfield Municipal Airport,(508) 339-3624,info@king1b9.com,http://www.king1b9.com/
+171,Shoreline Aviation,"93 Old Colony Lane, Marshfield, Massachusetts, 02050 United States",Marshfield Municipal Airport,(781) 834-4928,info@shorelineaviation.net,http://www.shorelineaviation.net/
+172,Colonial Air,"1605 Airport RD, New Bedford, Massachusetts, 02746 United States",New Bedford Regional Airport,(508) 997-0620,,http://www.colonial-air.com/
+173,Plum Island Aerodrome,"24 Plum Island Turnpike, Newbury, Massachusetts, 01951 United States",Plum Island Airport,(978) 463-4222,jbmflight@gmail.com,http://www.plumislandaerodrome.org
+174,Ace Aviation,"740 Grand St, Allegan, Michigan, 49010 United States",Three Rivers Municipal Airport,(888) 588-2755,info@aceaviation..biz,http://www.aceaviation.biz/
+175,Ann Arbor Aviation Center,"719 Airport Drive, Ann Arbor, Michigan, 48108 United States",Ann Arbor Municipal Airport,(734) 662-6806,info@aviationcenter.aero,http://www.aviationcenter.aero/
+176,University of Michigan Flyers,"1075 Airport Drive, Ann Arbor, Michigan, 48108 United States",Ann Arbor Municipal Airport,(734) 994-6208,information@michiganflyers.org,http://michiganflyers.org/
+177,Solo Aviation,"801 Airport Drive, Ann Arbor, Michigan, 48108 United States",,(734) 994-6651,info@soloaviation.aero,http://www.soloaviation.aero/
+178,Centennial Aircraft Services,"15955 South Airport Road, Battle Creek, Michigan, 49015 United States",W K Kellogg Airport,(269) 565-3200,,http://www.centennialair.com/
+179,Great Lakes Air Ventures,"1325 Island Hwy, Charlotte, Michigan, 48813 United States",Fitch H. Beach Municipal Airport,(517) 980-1281,Contact@GreatLakesAirVentures.com,http://www.greatlakesairventures.com/
+180,GFPA Greater Flint Pilots Association,"G-3425 W Bristol Rd, Flint, Michigan, 48507 United States",Bishop International Aiport,(810) 629-5181,,http://www.gfpa.org/
+181,GrandAir,"16815 Wright Road, Grand Ledge, Michigan, 48837 United States",Abrams Municipal Airport,(517) 627-9557,info@grandairaviation.com,http://www.grandairaviation.com/
+182,Thornapple Flying Academy,"2505 Murphy Dr, Hastings, Michigan, 49058 United States",Hastings Airport,(269) 795-3100,,http://www.thornapple-flying.com/
+183,Hillsdale Aero,"3998 State Road, Hillsdale, Michigan, 49242 United States",Hillsdale Municipal Airport,(517) 437-4755,james@hillsdaleaero.com,http://www.hillsdaleaero.com/
+184,Aero Minnesota,"1190 Air Park Drive, Aitkin, Minnesota, 56431 United States",,(218) 839-1067,adam@aerominnesota.com,http://www.aeromn.com/
+185,Alexandria Aviation,"2604 Aga Drive, Alexandria, Minnesota, 56308 United States",Chandler Field Airport,(320) 762-2111,,http://www.alexandriaaviation.com/
+186,On His Wings Flight Academy,"2604 Aga Drive, Alexandria, Minnesota, 56308 United States",Alexandria Municipal Airport,(757) 585-4359,,http://www.onhiswingsflightacademy.com/
+187,Austin Aero Flight,"710 21st St NE, Austin, Minnesota, 55912 United States",Austin Municipal Airport,(507) 433-1813,,http://www.austinaeroflight.com/
+188,Air D,"PO Box 187, Backus, Minnesota, 56435 United States",Backus Minnesota Airport,(218) 947-3100,,http://www.flyaird.com/
+189,Airmotive Enterprises,"16384 Airport Rd Ste #8, Brainerd, Minnesota, 56401 United States",Brainerd Lakes Regional Airport,(218) 829-3398,,http://www.airmotive.net/
+190,Venture North Aviation ,"125 Wheaton Road, Cloquet, Minnesota, 55720 United States",Cloquet Carlton County Airport,(218) 879-6599,staff@venturenorthaviation.com,http://www.venturenorthaviation.com
+191,Inflight Pilot Training,"13801 Pioneer Trail, Eden Prairie, Minnesota, 55347 United States",Flying Cloud Airport,(952) 698-3000,,http://www.inflightpilottraining.com/
+192,Thunderbird Aviation,"14091 Pioneer Trail, Eden Prairie, Minnesota, 55347 United States",Minneapolis Crystal Airport,(952) 941-1212,,http://www.thunderbirdaviation.com/
+193,Hummingbird Aviation,"13601 Pioneer Trail, Eden Prairie, Minnesota, 55347 United States",Flying Cloud Municipal Airport,(952) 944-2628,info2@hummingbirdhelicopters.us,http://www.hummingbirdhelicopters.us/
+194,Apollo Flight Training and Aircraft Management,"1100 Hangar Street, Gulfport, Mississippi, 39501 United States",,(228) 687-1500,info@flyapollo.com,http://www.flyapollo.com/
+195,Madison Flyers,"7504 Old Canton Rd, Madison, Mississippi, 39110 United States",Madison Airport,(601) 605-1698,letsfly@madisonflyers.com,http://www.madisonflyers.com/
+196,Air Venture Flying,"11299 Airport Road, Oliver Branch, Mississippi, 38654 United States",Olive Branch Airport,(901) 521-1068,,http://www.air-venture.com/
+197,Aurora Flight Training,"22785 Airport Road NE, Aurora, Oregon, 97002 United States",Aurora State Airport,503-678-1454,info@auroraflighttraining.com,http://www.auroraflighttraining.com
+198,Air Lake Aviation,"20 Airport Drive, Camdenton, Missouri, 65020 United States",Camdenton Memorial Airport,(888) 759-2311,john.kozs@yahoo.com,http://airlakeaviation.com/
+199,Air Associates of Missouri,"18600 Edison Avenue, Chesterfield, Missouri, 63005 United States",,(636) 536-1341,,http://www.airassociatesmo.com/
+200,Elite Aviation,"18600 Edison Ave, Chesterfield, Missouri, 63005 United States",Spirit of St. Louis Airport,6367784400,EliteInfo@eliteksus.com,https://eliteaviation-spirit.com/
+201,Jefferson City Flying Service,"501 Airport Road, Jefferson City, Missouri, 65101 United States",Jefferson City Memorial Airport,(573) 636-5118,mail@jcfs.net,http://www.jcfs.net/
+202,Mizzou Aviation,"5497 Dennis Weaver Dr, Joplin, Missouri, 64802 United States",Joplin Regional Airport,(417) 623-1331,pmcdonough@mizzouaviation.com,http://www.mizzouaviation.com/
+203,US Flight Co MKC,"500 Richards Rd, Kansas City, Missouri, 64116 United States",Charles B Wheeler Downtown Airport,(816) 542-7525,office@usflightco.com,https://usflightco.com/kansas-city/
+204,Jewell Aviation,"418 Airport Road, Kennett, Missouri, 63857 United States",Kennett Memorial Airport,(573) 888-5846,jewell@clgw.net,http://www.jewellaviation.com/default.htm
+205,Gateway Flight Training,"3127 Creve Coeur Airport Rd, Maryland Heights, Missouri, 63146 United States",Creve Coeur Airport,(314) 780-7899,info@gatewayflight.com,http://gatewayflight.com/
+206,SEMO Aviation Services,"2903 HWY B, Poplar Bluff, Missouri, 63901 United States",Poplar Bluff Municipal Airport,5737145381,dustin@semoaviationservices.com,http://www.semoaviationservices.com/
+207,Summit Aviation,"490 Wings Way, Belgrade, Montana, 59714 United States",Gallatin Field Airport,(406) 388-8359,,http://www.flysummit.net/
+208,Eagle Flight Services,"PO Box 1317, Belgrade, Montana, 59714 United States",,(406) 388-0385,lhmarshall@msn.com,http://www.arrowflight.net/
+209,Tom Nagorskis Paragon Air Adventures,"34 Gallatin Field, Belgrade, Montana, 59714 United States",,(406) 388-4158,,http://www.paragonair.com/
+210,Angle of Attack AEROnautics Flight School,"4602 Harrison Ave., Butte, Montana, 59701 United States",Bert Mooney Airport,406 490-3627,aoaaeronautics@gmail.com,https://aoaaeronautics.com
+211,Cloud Catcher Aviation,"2800 Terminal Drive, Great Falls, Montana, 59404 United States",Great Falls International Airport,(406) 799-1197,vinnieb007@yahoo.com,http://www.cloudcatcherav.com/
+212,Mountain Airdance,"PO Box 6561, Helena, Montana, 59601 United States",Helena Regional Airport,(406) 459-9408,,http://www.mountainairdancellc.com/
+213,Montana Air Adventures,"1880 Hwy 93 S, Kalispell, Montana, 59901 United States",Kalispell City Airport,(406) 755-2376,,http://montanaairadventures.com
+214,Red Eagle Aviation,"1880 Hwy 93 South, Kalispell, Montana, 59901 United States",Kalispell City Airport,(406) 755-2376,,http://www.redeagleaviation.com/
+215,Northern Skies Aviation,"3900 Fox Road, Laurel, Montana, 59044 United States",Laurel Municipal Airport,(406) 628-2219,info@northernskies.com,http://www.northernskies.com/
+216,Valley Airways,"250042 Robertson Rd, Scottsbluff, Nebraska, 69361 United States",Western Nebraska Regional Airport,(308) 635-1331,valleyairways@valleyairways.com,http://valleyairways.com/
+217,Carson Aviation Adventures,"2500 E COLLEGE PKWY STE 103, CARSON CITY, Nevada, 89706-0795 United States",Carson City Municipal Airport,775-223-5353,brian.vowell@gmail.com,https://carson-aviation-adventures.com
+218,Sport Aviation Center,"2640 E College Parkway, Carson City, Nevada, 89706 United States",Carson City Airport,(775) 772-8232,Paul@SportAviationCenter.com,http://www.sportaviationcenter.com/
+219,El Aero Services,"815 Murray Way, Elko, Nevada, 89801 United States",Elko Regional Airport,(775) 738-7123,,http://www.elaero.com/
+220,Helios Aviation,"3500 Executive Airport Dr, Henderson, Nevada, 89052 United States",Henderson Executive Airport,(702) 901-1192,Info@heliosaviation.com,http://www.heliosaviation.com/
+221,Monarch Sky,"1420 Jet Stream Dr, Henderson, Nevada, 89052 United States",North Las Vegas Airport,(702) 631-0386,info@monarchsky.com,http://www.monarchsky.com/
+222,Cactus Aviation,"3500 Executive Terminal Drive, Henderson, Nevada, 89052 United States",,(702) 261-4883,info@cactuslv.com,http://www.cactuslv.com/
+223,Desert Flying Club,"3500 Executive Terminal Drive, Henderson, Nevada, 89052 United States",Henderson Executive Airport,(702) 990-7656,board@desertflying.club,http://www.desertflying.club/
+224,Sierra Skyport,"1138 Airport Road, Minden, Nevada, 89423 United States",Minden Tahoe Airport,(775) 309-4423,finance@sierraskyport.com,http://sierraskyport.com/
+225,High Sierra Pilots Flying Club,"1151 Airport Rd STE #2, Minden, Nevada, 89423 United States",Minden-Tahoe Airport,(800) 278-1634,info@highsierrapilots.com,http://highsierrapilots.club/
+226,West Air Aviation,"2726 Perimeter Road, North Las Vegas, Nevada, 89032 United States",North Las Vegas Airport,(702) 631-0229,,http://www.westairaviation.com/
+227,Sky Bright,"65 Aviation Drive, Gilford, New Hampshire, 03249 United States",Laconia Airport,(603) 528-6818,,http://www.skybright.com/
+228,Emerson Aviation,"118 Kimball Road, Gilford, New Hampshire, 03249 United States",Laconia Airport,(800) 808-2687,emersoninfo@emersonaviation.com,http://www.emersonaviation.com/
+229,Monadnock Aviation,"80 Airport Road, Keene, New Hampshire, 03431 United States",,(603) 357-7600,Admin@MonadnockAviation.com,http://www.monadnockaviation.com/
+230,Saflite Pilot Training,"439 Kelly Ave, Manchester, New Hampshire, 03108 United States",Manchester Airport,(603) 626-5444,saflite@verizon.net,http://www.saflite.com/
+231,Hampton Airfield,"9a Lafayette Road, N Hampton, New Hampshire, 03862 United States",Hampton Airfield,(603) 964-6749,,http://www.hamptonairfield.com/
+232,Air Direct Airways,"125 Perimeter Rd, Nashua, New Hampshire, 03063 United States",Nashua Municipal Airport,(603) 882-5606,,http://www.airdirectairways.com/
+233,Harvest Aviation Services,"129E Perimeter Road, Nashua, New Hampshire, 03063 United States",Nashua Municipal Airport,(603) 882-1113,,http://www.harvestaviation.com/
+234,East Coast Aero Club,"200 Hanscom Drive, Bedford, Massachusetts, 01730 United States",Bedford Hanscom Field Airport,(781) 274-6322,ecacbed@eastcoastaeroclub.com,http://eastcoastaeroclub.com/
+235,Andover Flight Academy,"PO Box 239, Andover, New Jersey, 07821 United States",Aeroflex Andover Airport,(973) 786-6554,,http://www.andoverflight.com/
+236,Somerset Air Service,"150 Airport Road, Bedminster, New Jersey, 07921 United States",Somerset Airport,(908) 722-2444,,http://www.somersetairport.com/
+237,Air Fleet Training,"35 Wright Way, Fairfield, New Jersey, 07004 United States",Essex County Airport,(973) 575-8220,,http://www.airfleettraining.com/
+238,Century Flight Academy,"19 Wright Way, Fairfield, New Jersey, 07004 United States",Essex County Airport,(973) 575-4800,,http://www.centuryair.com/
+239,Fischer Aviation,"165 Passaic Avenue, Fairfield, New Jersey, 07004 United States",Essex County Airport,(973) 575-1900,learntofly@fischeraviation.com,http://www.nynjflightschool.com/
+240,Jersey Aero Club,"1900 Cedar Bridge Ave, Lakewood, New Jersey, 08701 United States",Lakewood Airport,(848) 565-1478,join@GoJac.org,http://www.gojac.org/
+241,Monmouth Area Flying Club,"1900 Cedar Bridge Avenue, Lakewood, New Jersey, 08701 United States",Lakewood Airport,(732) 671-9327,membership@flymafc.com,http://www.flymafc.com/
+242,Aero Safety Training,"425 Beaverbrook Road, Lincoln Park, New Jersey, 07035 United States",Lincoln Park Airport,(973) 872-6213,,http://lpawings.com/
+243,Best in Flight,"1101 W Edgar Rd, Linden, New Jersey, 07036 United States",Morristown Municipal Airport,(973) 723-8793,,http://www.bestinflight.net/
+244,Tailspinners Flight Club,"68 Stacy Haines Road, Lumberton, New Jersey, 08048 United States",,(856) 495-6919,Tailspinners@HRManagement.US,http://www.tailspinners.us/
+245,"Frost Aviation Services, Inc","740 Leonard ,",,(856) 495-6919,Tailspinners@HRManagement.US,http://www.tailspinners.us/
+246,Bode Aviation Inc,"7401 Atrisco Vista Blvd NW, Alburquerque, New Mexico, 87120 United States",Double Eagle II Airport,(505) 884-4530,,http://www.flybode.com/
+247,Del Sol Aviation,"2501 Clark Carr Loop SE, Alburquerque, New Mexico, 87106 United States",Albuquerque Sunport Airport,(505) 242-2701,,http://www.delsolaviation.com/
+248,Chamberlain Aviation,"Mile 10 Hwy 80, Rodeo, New Mexico, 88056 United States",Rodeo Airport,(877) 209-7506,,http://chamberlainaviation.com/
+249,Sierra Aviation,"87A Aviation Dr, Santa Fe, New Mexico, 87507 United States",Santa Fe Municipal Airport,(505) 474-0774,info@sierraflying.com,http://www.sierraflying.com/
+250,Prior Aviation Service,"50 North Airport Drive, Buffalo, New York, 14225 United States",Buffalo Niagara International Airport,(716) 633-1000,,http://prioraviation.com/
+251,747 Aviation Inc,"922 State Route 222 MH-1, Cortland, New York, 13045 United States",Cortland County Airport,(607) 662-4505,info@747aviation.com,http://www.747aviation.com/
+252,Dunkirk Aviation,"3389 Middle Road, Dunkirk, New York, 14048 United States",Chautaugua County Dunkirk Airport,(716) 366-6938,,http://www.dkk.com/
+253,Vaughn College of Aeronautics and Technology,"86 01 23rd Avenue, East Elmhurst, New York, 11369 United States",LaGuardia Airport,(718) 429-6600,info@vaughn.edu,http://www.vaughn.edu/
+254,Academy of Aviation,"7150 Republic Airport, Farmingdale, New York, 11735 United States",Republic Airport,(631) 777-7772,info@academyofaviation.com,http://www.academyofaviation.com/
+255,Nassau Flyers,"1300 New Highway, Farmingdale, New York, 11743 United States",Republic Airport,(631) 454-0626,,http://www.flynfi.com/
+256,OToole Airways,"Route 109 Hanger 2, Farmingdale, New York, 11735 United States",Republic Airport,(917) 575-8186,pat@otooleairways.com,http://www.otooleairways.com/
+257,Danny Waizman Flight School and Aircraft Rental,"9100 Republic Airport Route , Farmingdale, New York, 11735 United States",,(516) 662-8887,,http://www.dannywaizman.com/
+258,Global Aviation Center,"9100 Republic Airport, Farmingdale, New York, 11735 United States",Republic Airport,(631) 391-9110,info@globalaviationcorp.net,http://www.globalaviationcenter.com/
+259,Ventura Aviation,"8100 Republic Airport, Farmingdale, New York, 11735 United States",,(631) 756-5500,,http://www.ventura.aero/
+260,American Winds Flight Academy,"1600 Triplett Blvd, Akron, Ohio, 44306 United States",Akron Fulton International Airport,(330) 733-2500,,http://www.teachmetofly.com/
+261,American Winds College of Aeronautics,"1461 Exeter Rd. Suite A, Akron, Ohio, 44306 United States",Akron Fulton Airport (KAKR),3307332500,admissions@teachmetofly.com,https://www.americanwinds.edu/
+262,Sportys Academy,"2001 Sportys Drive, Batavia, Ohio, 45103 United States",Clermont County Airport,(513) 735-9500,Fly@SportysAcademy.com,http://sportysacademy.com/
+263,Sportys Eastern Cincinnati Aviation,"2001 Sportys Dr, Batavia, Ohio, 45103 United States",Clermont County Airport,(513) 735-9500,info@flyeca.com,http://flyeca.com/
+264,Midwest Corporate Air,"3100 SR 47 W, Belefontaine, Ohio, 43311 United States",Bellefontaine Regional Airport,(937) 593-8210,steve@midwestcorporateair.com,http://www.midwestcorporateair.com/
+265,Taylorcraft Flying Club,"18294 State Route 62, Beloit, Ohio, 44609 United States",TriCity Airport,(330) 936-7771,TaylorcraftFlyingClub@yahoo.com,http://www.taylorcraftflyingclub.org/
+266,Bluffton Flying Service,"1080 Navajo Drive, Bluffton, Ohio, 45817 United States",Bluffton Airport,(419) 358-7045,blufftonflyingservice@gmail.com,http://www.blufftonflyingservice.com/
+267,Luken Flight Training Center,"4500 AIRPORT ROAD, Cincinnati, Ohio, 45226 United States",Cincinnati Municipal Airport,(513) 321-3211,info@flylftc.com,http://www.flylftc.com/
+268,Premier Flight Academy,"1501 North Marginal Dr, Cleveland, Ohio, 44114 United States",Burke Lakefront Airport,(216) 333-1537,info@premierflightacademy.com,http://www.premierflightacademy.com/
+269,Capital City Aviation,"2160 West Case Road, Columbus, Ohio, 43235 United States",Ohio State University Airport,(614) 459-2541,,http://www.capitalcityaviation.com/
+270,Barker Aviation,"1315 S Lake Murray Drive, Ardmore, Oklahoma, 73401 United States",Ardmore Downtown Executive Airport,(580) 504-4044,tyler@barkeraviation.com,http://www.barker-aviation.com/
+271,AirOne Flight Academy,"5915 Philip J Rhoads Avenue, Bethany, Oklahoma, 73008 United States",Wiley Post Airport,(405) 789-0000,,http://www.aironeflightacademy.com/
+272,Oklahoma Aviation,5905 TULAKES,Wiley Post Airport,(405) 789-0000,,http://www.aironeflightacademy.com/
+273,Chickasha Wings,"2376 Beechcraft Road, Chikasha, Oklahoma, 73018 United States",Chickasha Municipal Airport,(405) 224-8359,,http://www.chickashawings.com/
+274,Blue Skies Flight School,"520 Airport Road, Guthrie, Oklahoma, 73044 United States",Edmund Guthrie Regional Airport,(405) 210-1010,,http://www.blueskiesflightschool.com/
+275,Crabtree Aircraft Company,"520 Airport Road, Guthrie, Oklahoma, 73050 United States",Guthrie Edmond Regional Airport,(405) 282-4250,,http://www.crabtreeaircraft.net/
+276,Freedom Flyers Aviation,"8304 NW 117th Street, Oklahoma City, Oklahoma, 73162 United States",Sundance Airpark,(405) 706-7089,ffacontact@freedom-flyers.com,http://www.freedom-flyers.com/
+277,Sundance Flight Academy,"13000 North Sara Road, Oklahoma City, Oklahoma, 73099 United States",Sundance Airport,4053733886,flightacademy@sundanceairport.com,http://sundanceairport.com/flight-academy
+278,Christiansen Flight School,"8767 Jack Bates Avenue, Tulsa, Oklahoma, 74132 United States",Jones Riverside Airport,(918) 299-2646,bill@christiansenaviation.com,http://www.christiansenaviation.com/
+279,Riverside Flight Center,"203 Cessna Drive, Tulsa, Oklahoma, 74164 United States",Richard L Jones Junior Airport,(918) 298-3164,,http://www.riversideflightcenter.com/
+280,Skinner Aviation,"403 Dead Indian Memorial Rd, Ashland, Oregon, 97520 United States",Ashland Municipal Airport,(541) 482-7675,,http://www.skinneraviation.com/
+281,Twiss Air Service,"1270 Flightline Dr, Astoria, Oregon, 97146 United States",Astoria Regional Airport,(503) 861-1214,john@twissair.com,http://www.twissair.com/
+282,Aurora Flight Training,"22785 Airport Road NE, Aurora, Oregon, 97002 United States",Aurora State Airport,503-678-1454,info@auroraflighttraining.com,http://www.auroraflighttraining.com
+283,Willamette Aviation,"23115 Airport Road NE, Aurora, Oregon, 97002 United States",Aurora State Airport,(503) 678-2252,info@willametteair.com,http://www.willametteair.com/
+284,Baker Aircraft,"43769 Heilner Road, Baker City, Oregon, 97814 United States",Baker City Municipal Airport,(541) 523-5663,,http://bakeraircraft.com/
+285,Leading Edge Aviation,"3879 Old Easton Road, Doylestown, Pennsylvania, 18902 United States",Doylestown Airport,(215) 340-0707,,http://www.doylestownairport.com/
+286,Professional Air,"Javier Prado Oeste 550, Magdalena del Ma, Lima, 00017 Peru",,(1) 206-4000,informes@professionalair.net,http://www.professionalair.net/portal3/
+287,Captain Drakes Family Aerial Adventures,"424 Airport Drive, Cave Junction, Oregon, 97523 United States",Illinois Valley Airport,(541) 415-0600,captaindrakesfaa@gmail.com,http://www.captaindrakesfaa.com/
+288,Corvallis Aero Service,"5695 SW Airport Place, Corvallis, Oregon, 97333 United States",,(541) 757-2842,customerservices@corvallisaero.net,http://www.corvallisaeroservice.com/
+289,Flying D Enterprises,"83501 N Melton Road, Creswell, Oregon, 97426 United States",Creswell Municipal Airport,(541) 895-5935,,http://www.flyingd.net/
+290,Ace Pilot Training,"600 Hayden Circle, Allentown, Pennsylvania, 18109 United States",Lehigh Valley International Airport,(610) 264-1105,,http://www.acepilot.com/
+291,Gateway Aviation Limited,"1730 Vultee St, Allentown, Pennsylvania, 18103 United States",Allentown Queen City Municipal Airport,(610) 797-7942,info@gateway-aviation.com,http://www.gateway-aviation.com/flight-school.html
+292,Aces Aviation,"7 Piper Street Suite 1, Beaver Falls, Pennsylvania, 15010 United States",Beaver County Airport,(724) 891-2237,,http://www.acesbvi.com/
+293,Moore Aviation,"7 Piper Street, Beaver Falls, Pennsylvania, 15010 United States",Beaver County Airport,(724) 843-4800,linda@mooreaviation.com,http://www.mooreaviation.com/
+294,Bun Air Corp,"PO Box 638, Bedford, Pennsylvania, 15522 United States",Bedford County Airport,(800) 296-8171,,http://bunaircorp.com/
+295,FlyAdvanced Wings Field,"1501 Narcissa Road, Blue Bell, Pennsylvania, 19422 United States",,(215) 646-0400,charter@flyadvanced.com,http://www.flyadvanced.com/
+296,AirQuest Aviation,"485 Airport Road, Butler, Pennsylvania, 16002 United States",Butter Valley Gold Port Airport,(724) 586-6023,,http://www.airquestaviation.com/
+297,High Flight Academy,"475 Airport Road, Butler, Pennsylvania, 16002 United States",Pittsburgh-Butler Regional Airport,7244811359,info@highflightacademy.com,http://www.highflightacademy.com
+298,Cumberland Valley Aviation,"228 Petersburg Rd, Carlisle, Pennsylvania, 17013 United States",Carlisle Airport,(717) 580-5282,cumberlandvalleyaviation@gmail.com,http://www.cumberlandvalleyaviation.com/
+299,Chester County Aviation,"1 Earhart Drive, Coatesville, Pennsylvania, 19320 United States",Brandywine Airport,(610) 384-9000,,http://www.chestercountyaviation.com/
+300,Newport Aviation,"211 Airport Access Road, Middletown, Rhode Island, 02842 United States",Newport State Airport,(401) 846-2359,,http://www.flynewportri.com/
+301,Lincoln Flight Center,"300 Jenckes Hill Rd, Smithfield, Rhode Island, 02917 United States",North Central State Airport,(401) 334-1359,,http://www.lincolnflight.com/
+302,North Central Flight Center,"300 Jenckes Hill Road, Smithfield, Rhode Island, 02917 United States",North Central State Airport,(401) 413-4093,,http://www.ripilot.com/
+303,Horizon Aviation,"530 Airport Rd, Warwick, Rhode Island, 02886 United States",Theodore Francis Green State Airport,(401) 736-5115,,http://www.horizonaviation.com/
+304,Carolina Aviation of Aiken,"125 Aviation Drive, Aiken, South Carolina, 29805 United States",Aiken Municipal Airport,(803) 502-1007,,http://www.carolinaaviation.net/
+305,Windsock Aviation,"412 Meadows Lane, Bishopville, South Carolina, 29010 United States",Florence Regional Airport,(803) 484-3296,windsock@sc.rr.com,http://www.windsockaviation.net/
+306,Cirrus Flight Training,"2203 Airline Dr, Camden, South Carolina, 29020 United States",Woodward Field Airport,(803) 432-3831,info@CFTFlightSchool.com,http://www.cftflightschool.com/
+307,Airwolf Aviation Services,"100 Tower Drive, Greenville, South Carolina, 29607 United States",Greenville Downtown Airport,(877) 335-9464,admin@flyairwolf.com,http://www.flyairwolf.com/
+308,Av Serve,"552 Perimeter Road, Greenville, South Carolina, 29605 United States",Donaldson Center Airport,(866) 373-2853,,http://www.avserve.net/
+309,Greenville Aviation,"65 Miler Lane, Greenville, South Carolina, 29607 United States",Greenville Downtown Airport,(864) 242-4201,,http://www.greenvilleaviation.com/
+310,ASG Flight Training Academy,"552 Perimeter Road, Greenville, South Carolina, 29605 United States",Donaldson Center Airport,(864) 299-0314,bill@avserve.com,http://www.avserve.com/
+311,Hilton Head Flight School,"85 Summit Drive, Hilton Head Island, South Carolina, 29928 United States",Hilton Head Airport,(843) 384-4316,bbshank@gmail.com,http://hiltonheadflightschool.net/
+312,Charleston Flight Services,"2742 Fort Trenholm Road, Johns Island, South Carolina, 29455 United States",Charleston Executive Airport,(843) 709-0899,info@charlestonflight.net,http://www.charlestonflight.net/
+313,Coastal Aviation,"700 Faison Dr, Mt Pleasant, South Carolina, 29466 United States",Mt. Pleasant Regional Airport,(843) 388-0535,,http://www.flycoastalaviation.com/
+314,The Sioux Falls Flight School,"701 West National Guard Drive, Sioux Falls, South Dakota, 57104 United States",,(605) 728-2233,,http://www.siouxfallsflightschool.com/
+315,Eagle Aviation,"2861 Aviation Way, W Columbia, South Carolina, 29170 United States",Columbia Metropolitan Airport,(803) 822-5555,info@eagle-aviation.com,http://www.eagle-aviation.com/
+316,Legacy Aviation,"47010 Great Planes Place, Tea, South Dakota, 57064 United States",Lincoln County Airport,(605) 368-2841,,http://www.legacyaviationsd.com/
+317,Advanced Flight Training,"360 Aviation Dr, Blountville, Tennessee, 37617 United States",Tri Cities Regional Airport,(423) 325-6466,aft3@earthlink.net,http://www.advancedflight.com/
+318,Crystal Air,"405 Airport Road, Cleveland, Tennessee, 37312 United States",Collegedale Municipal Airport,(423) 790-1599,,http://crystalaironline.webplus.net/
+319,Elizabethton Flight Training Center,"415 Highway 91, Elizabethton, Tennessee, 37643 United States",,(423) 543-2801,,http://www.elizabethtonairport.com/
+320,Hixon Aviation,"1824 East Crabtree Road, Hixson, Tennessee, 37343 United States",Dallas Bay Sky Park Airport,(423) 842-9845,,http://hixsonaviation.com/
+321,Knoxville Flight Training Center,"2701 Spence Pl, Knoxville, Tennessee, 37920 United States",Knoxville Downtown Island Airport,(865) 573-8359,,http://www.knoxflight.com/
+322,Buzz Air Flight Academy,"410 Airport Rd, Lawrenceburg, Tennessee, 38464 United States",Carson Airport,(775) 841-5429,aumie@pyramid.net,http://www.flybuzzair.com/
+323,Class Bravo Air,"760 Franklin Rd, Lebanon, Tennessee, 37087 United States",Lebanon Municipal Airport (M54),615-669-5117,fly@classbravoair.com,http://www.classbravoair.com/
+324,Downtown Aviation,"2787 North Second Street, Memphis, Tennessee, 38127 United States",,(901) 354-3001,,http://www.downtownaviation.com/
+325,CTI Professional Flight Training,"1815 NW 51st Pl, Fort Lauderdale, Florida, 33309 United States",Ft Lauderdale Executive Airport,(954) 938-3043,fly@ctipft.com,http://ctipft.com/
+326,Murfreesboro Aviation,"1936 Memorial Blvd, Murfreesboro, Tennessee, 37129 United States",Murfreesboro Municipal Airport,(615) 494-1900,,http://www.murfreesboroaviation.com/
+327,Monarch Air,"4580 Claire Chennault, Addison, Texas, 75001 United States",Addison Airport,(972) 931-0345,contact@monarchair.com,http://www.monarchair.com/
+328,Lone Star Flyers,"4553 Jimmy Doolittle Drive, Addison, Texas, 75001 United States",Addison Airport,(469) 371-3179,info@flytexasamerican.com,http://www.lonestarflyers.com/
+329,US Sport Flight Training,"4700 Airport Parkway, Addison, Texas, 75001 United States",Addision Airport,(972) 735-9099,,http://www.ussportflighttraining.com/
+330,Professional Aviation Resources,"101C North Greenville Avenue, Allen, Texas, 75002 United States",,(972) 704-9575,info@flypartx.com,http://www.professionalaviationresources.com/
+331,Coyote Flight Centers,"11001 Airport Blvd, Amarillo, Texas, 79111 United States",Rick Husband Amarillo Airport,(806) 335-9763,,http://www.iflycfc.com/
+332,Cutting Edge Aviation,"6706 Drexel, Amarillo, Texas, 79109 United States",,(806) 670-4535,Cuttingedge2@hotmail.com,http://www.cuttingedgeaviation.com/
+333,Route 66 Aviation,"4201 North Soncy Road, Amarillo, Texas, 79118 United States",Tradewind Airport,(806) 324-7220,sean@route66aviation.com,http://www.route66aviation.com/
+334,Third Coast Aviation,"8000 Airport Rd, Angleton, Texas, 77515 United States",Gulf Coast Regional Airport,(979) 478-9822,info@thirdcoastaviation.com,http://www.thirdcoastaviation.com
+335,Houston Light Sport Aviation,"919 McKeever Rd, Arcola, Texas, 77583 United States",West Houston Airport,(832) 447-4572,info@houstonlsa.com,http://www.houstonlsa.com/
+336,Success Aviations,"503 McKeever #1517, Arcola, Texas, 77583 United States",Houston Southwest Airport,(281) 431-4040,jenifer@successaviation.com,http://www.successaviation.com/
+337,Sphere One Aviation,"2277 West Kittyhawk, Cedar City, Utah, 84721 United States",Cedar City Regional Airport,(435) 586-4504,,http://cedarcityairport.com/
+338,Leading Edge Aviation,"3879 Old Easton Road, Doylestown, Pennsylvania, 18902 United States",Doylestown Airport,(215) 340-0707,,http://www.doylestownairport.com/
+339,Utah State University,"6000 OLD MAIN HILL, LOGAN, Utah, 84322 United States",Logan/Cache Airport,4357970419,michael.logan@usu.edu,https://aste.usu.edu/aviation/
+340,Above View Flight Training,4196 S,Logan/Cache Airport,4357970419,michael.logan@usu.edu,https://aste.usu.edu/aviation/
+341,Cornerstone Aviation Flight School,"337 N 2370 W, Salt Lake City, Utah, 84116 United States",Salt Lake City International Aiport,(801) 355-2244,,http://cornerstoneaviation.com/
+342,American Aviation,"176 North 2200 West, Salt Lake City, Utah, 84116 United States",Salt Lake International Airport,(801) 537-1537,,http://www.americanaviationwest.com/
+343,Aerotech Aviation,"7220 South 4450 West, South Jordan, Utah, 84065 United States",South Valley Regional Airport,(801) 918-8854,doug@aerotechaviaiton.net,http://aerotechaviation.net/
+344,Airgyro Aviation,"350 West 2050 North, Spanish Fork, Utah, 84660 United States",Spanish Fork Airport,(801) 794-3434,don@airgyro.com,http://www.airgyro.com/
+345,Randon Aviation,"7220 South 4450 West, West Jordan, Utah, 84088 United States",South Valley Regional Airport,(801) 550-0728,rrussell@randonaviation.com,http://randonaviation.com/
+346,Bountiful Flight,"1887 S 1800 W, Woods Cross, Utah, 84087 United States",,(801) 896-4470,fly@bountifulflight.com,http://www.bountifulflight.com/
+347,Green Mountain Flight Training,"1004 Airport Road, North Clarendon, Vermont, 05759 United States",Rutland Southern Vermont Regional Airport,(802) 379-7089,training@vtflightschool.com,http://www.vtflightschool.com/
+348,Shelburne Flight School,"144 Air Park Road, Shelburne, Vermont, 05482 United States",,(802) 233-0374,shelburnefs@gmail.com,http://www.shelburneflightschool.com/
+349,Vermont Flight Academy,"355 Valley Road, South Burlington, Vermont, 05403 United States",Burlington International Airport,(802) 863-5988,info@unionstreetmedia.com,http://flyvfa.org/
+350,Tailwind Flight Center,"N259 Ares Drive, Appleton, Wisconsin, 54914 United States",Outagamie County Regional Airport,(920) 738-3031,,http://tailwindflightcenter.com/
+351,Baraboo Dells Flight Center,"S3440 US Hwy 12, Baraboo, Wisconsin, 53913 United States",Baraboo Wisconsin Dells Airport,(608) 356-2270,,http://www.flybdfc.com/
+352,Am I High Aviation,"4501 Hwy 66, Custer, Wisconsin, 54481 United States",Stevens Point Airport,(715) 252-3326,,http://www.amihighaviation.com/
+353,Heartland Aviation,"3800 Starr Ave, Eau Claire, Wisconsin, 54703 United States",Chippewa Valley Regional Airport,(715) 835-3181,charter@heartlandaviation.com,http://www.heartlandaviation.com/
+354,Fond du Lac Skyport,260 S,Chippewa Valley Regional Airport,(715) 835-3181,charter@heartlandaviation.com,http://www.heartlandaviation.com/
+355,Pilotsmith Inc,"1921 Airport Dr, Green Bay, Wisconsin, 54313 United States",Austin Straubel International Airport,(920) 415-2359,charlie@pilotsmith.com,http://www.pilotsmith.com/
+356,CAVU Flight Academy,"2131 Airport Drive, Green Bay, Wisconsin, 54313 United States",Austin Straubel Airport,(920) 405-0506,,http://www.cavuflightacademy.com/
+357,Cub Air,"4200 Highway U, Hartford, Wisconsin, 53027 United States",Hartford Municipal Airport,(262) 725-3591,,http://www.cubair.net/
+358,Colgan Air Services,"2709 Fanta Reed Rd, LaCrosse, Wisconsin, 54603 United States",La Crosse Municipal Airport,(608) 783-8050,,http://colgan-air.com/
+359,Wisconsin Aviation,"3606 Corben Court, Madison, Wisconsin, 53704 United States",Dane County Regional Airport,(608) 268-5000,wisav@WisconsinAviation.com,http://www.wisconsinaviation.com/
+360,Crosswind Aviation,"7548 Fuller Street, Casper, Wyoming, 82604 United States",Casper Airport,(307) 472-4359,,http://www.crosswindavi.com/
+361,Wings of Wyoming Flight School,"3803 Evans Ave, Cheyenne, Wyoming, 82001 United States",Cheyenne Regional Airport,(307) 778-3050,info@wingsofwyoming.com,http://www.wingsofwyoming.com/
+362,Choice Aviation,"3001 Duggleby Drive, Cody, Wyoming, 82414 United States",Yellowstone Regional Airport,(307) 587-9262,,http://choiceaviation.com/
+363,Bighorn Airways,"2160 County Road 111, Evanston, Wyoming, 82931 United States",Sheridan County Airport,(307) 789-2256,mlasalle@evanstonaviation.com,http://www.evanstonaviation.com/
