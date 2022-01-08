@@ -38,7 +38,7 @@ num_schools_per_state = []
 def flight_state_urls():
     for state in states:
         flight_schools = f'https://www.flightschoollist.com/{state}-airplane-flight-schools/'
-        r = requests.get(flight_schools)
+        r = s.get(flight_schools)
         print('Getting URL for state:', state, r.status_code)
         flight_school_states_urls.append(flight_schools) 
 
@@ -49,7 +49,7 @@ def state_school_urls():
         state_url = f'https://www.flightschoollist.com/{state}-airplane-flight-schools/'
         base_url = 'https://www.flightschoollist.com'
 
-        r = requests.get(state_url)
+        r = s.get(state_url)
         soup = BeautifulSoup(r.text, 'html.parser')
 
         pagination = soup.find_all('ul', class_ = 'pagination pagination-sm pull-right')
@@ -75,7 +75,7 @@ def state_school_urls():
 def school_info():
     for url in school_urls:
         print('Gathering info from:', url)
-        response = requests.get(url)
+        response = s.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
         contact_details = soup.find_all('ul', class_ = 'list list-icons list-icons-style-3 mt-xlg')
@@ -124,8 +124,10 @@ def output():
 # DONE: school_info function is working
 
 
+
 if __name__ == '__main__':
     #pass
+    s = requests.Session()
     flight_state_urls()
     #print(flight_school_states_urls)
     state_school_urls()
@@ -139,7 +141,6 @@ if __name__ == '__main__':
 # Workflow: 
 
 # TO-DO: 
-# import Requests SESSION for faster scraping
 # DONE: Got result of 'num_schools' (ex: CA has 91, AZ has 24)
 # Pagination for state_school_urls and school_info functions 
 # Change num_schools into page numbers
