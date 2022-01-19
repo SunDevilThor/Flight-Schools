@@ -179,30 +179,19 @@ if __name__ == '__main__':
 
 # Workflow: 
 
+
 # TO-DO: 
-# Add a Try/Except to HTTPConnect error. 
+# Fix some of the addresses that only have the beginning showing. 
+# Add all schools names to a separate list - CSV file to be imported into another PY file for Selenium
+# Use Selenium to get the CEO of each flight-school. 
+
 
 # Bugs: 
 # "Index error: list out of range" for a few items in "details" dictionary in school_info function
-# 01-12-21 - The scraping seems to be repeating itself. 
-
-# 01/14/2022 - Error: 
-# urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.flightschoollist.comsewart-aviation-services', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x120769840>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
-
-# requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.flightschoollist.comsewart-aviation-services', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x120769840>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
-
-
-# Gathering info from: https://www.flightschoollist.com/ncb-aviation/
-# Getting contact details for: NCB Aviation
-# Gathering info from: https://www.flightschoollist.com/sky-park-aviators-club/
-# Getting contact details for: Sky Park Aviators Club
-# Gathering info from: https://www.flightschoollist.comsewart-aviation-services/
-
-# It's getting to OHIO, then failing due to URL. 
 
 # Total amount of flight schools in the USA: 867
 
-
+# Pagination: 
 # https://www.flightschoollist.com/alabama-airplane-flight-schools/?pageNum_rsSchoolLocation=0&totalRows_rsSchoolLocation=11
 # https://www.flightschoollist.com/alabama-airplane-flight-schools/?pageNum_rsSchoolLocation=1&totalRows_rsSchoolLocation=11
 
