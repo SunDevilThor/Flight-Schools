@@ -33,6 +33,7 @@ flight_school_states_urls = []
 school_urls = []
 contact_details_list = []
 num_schools_per_state = []
+all_school_urls_pages = []
 
 
 def flight_state_urls():
@@ -43,7 +44,7 @@ def flight_state_urls():
         flight_school_states_urls.append(flight_schools) 
 
 
-def state_school_urls():
+def state_school_url_pages():
     for state in states: 
         print('Getting school links for', state)
         state_url = f'https://www.flightschoollist.com/{state}-airplane-flight-schools/'
@@ -52,6 +53,7 @@ def state_school_urls():
         r = s.get(state_url)
         soup = BeautifulSoup(r.text, 'html.parser')
 
+        # Checks the amount of schools for each state
         pagination = soup.find_all('ul', class_ = 'pagination pagination-sm pull-right')
 
         for item in pagination:
@@ -59,6 +61,36 @@ def state_school_urls():
             num_schools = int(partial_link.split('=')[2])
 
             num_schools_per_state.append(num_schools)
+            print(state, 'has', num_schools, 'schools.')
+
+            page_number = str(num_schools)
+            try:
+                page_number = int(page_number) 
+                if page_number <= 10:
+                    page_number = 0
+                elif page_number > 99 and page_number < 109:
+                    page_number = 10
+                elif page_number > 109:
+                    page_number = 11
+                elif page_number > 119:
+                    page_number = 12
+                else:
+                    page_number = int(str(page_number)[0]) 
+            except:
+                page_number = int(page_number)
+            #print(page_number)
+
+        for page in range(0, page_number+1):  
+            print('Getting links for', state, 'on page:', page)
+            pages = state_url + f'?pageNum_rsSchoolLocation={page}&totalRows_rsSchoolLocation={num_schools}' 
+            all_school_urls_pages.append(pages)
+
+
+def individual_schools(): 
+    base_url = 'https://www.flightschoollist.com'
+    for url in all_school_urls_pages:
+        r = s.get(url)
+        soup = BeautifulSoup(r.text, 'html.parser')
 
         data = soup.find_all('tbody')
         for item in data: 
@@ -71,11 +103,19 @@ def state_school_urls():
 
                     school_urls.append(link)
 
+    print('Amount of school URLs:', len(school_urls))
+
+
+
 
 def school_info():
-    for url in school_urls:
+    for url in school_urls:   # might need to change back to "school_urls" instead of "all_school_urls"
         print('Gathering info from:', url)
-        response = s.get(url)
+        try: 
+            response = s.get(url)
+        except Exception as error: 
+            print('BAD LINK')
+            pass
         soup = BeautifulSoup(response.text, 'html.parser')
 
         contact_details = soup.find_all('ul', class_ = 'list list-icons list-icons-style-3 mt-xlg')
@@ -129,24 +169,36 @@ if __name__ == '__main__':
     #pass
     s = requests.Session()
     flight_state_urls()
-    #print(flight_school_states_urls)
-    state_school_urls()
-    #print(school_urls)
+    state_school_url_pages()
+    print('Amount of school URL pages:', len(all_school_urls_pages))
+    individual_schools()
     school_info()
-    #print(contact_details_list)
     print('Total amount of flight schools in the USA:', sum(num_schools_per_state))
-    #output()
+    output()
 
 
 # Workflow: 
 
 # TO-DO: 
-# DONE: Got result of 'num_schools' (ex: CA has 91, AZ has 24)
-# Pagination for state_school_urls and school_info functions 
-# Change num_schools into page numbers
+# Add a Try/Except to HTTPConnect error. 
 
 # Bugs: 
 # "Index error: list out of range" for a few items in "details" dictionary in school_info function
+# 01-12-21 - The scraping seems to be repeating itself. 
+
+# 01/14/2022 - Error: 
+# urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.flightschoollist.comsewart-aviation-services', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x120769840>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+
+# requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.flightschoollist.comsewart-aviation-services', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x120769840>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+
+
+# Gathering info from: https://www.flightschoollist.com/ncb-aviation/
+# Getting contact details for: NCB Aviation
+# Gathering info from: https://www.flightschoollist.com/sky-park-aviators-club/
+# Getting contact details for: Sky Park Aviators Club
+# Gathering info from: https://www.flightschoollist.comsewart-aviation-services/
+
+# It's getting to OHIO, then failing due to URL. 
 
 # Total amount of flight schools in the USA: 867
 
